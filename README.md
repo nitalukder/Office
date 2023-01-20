@@ -10,3 +10,4 @@ Office Installer with Project and Visio (Latest Command Line Installer)
 1. Accept Microsoft Software Licence and Terms by click on CheckBox then Continue.
 1. Set Location to Installer folder for Extract the installer
 1. Click download.bat for Download the Latest Microsoft Office.
+1. Click install.bat for Install Microsoft Office.
