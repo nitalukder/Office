@@ -11,7 +11,6 @@ This Installation Suite Contains
 ## Process
 
 > 1. Download Leatest [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117) [_**Note:** Open this Link in New Tab._]
-> 1. Move Downloaded Office Deployment Tool to ODT folder.
 > 1. Run Office Deployment Tool by Double Clicking.
 > 1. Accept Microsoft Software Licence and Terms by click on CheckBox then Continue.
 > 1. Set Location to Installer folder for Extract the installer
