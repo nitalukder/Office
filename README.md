@@ -1,13 +1,22 @@
-# Office365
-Office Installer with Project and Visio (Latest Command Line Installer)
+# Install Compete Office Suite
+Latest Microsoft Office Command-Line Installer (64-bit)
+
+## Features
+
+This Installation Suite Contains
+> * Microsoft Office 365
+> * Microsoft Project 2021
+> * Microsoft Visio 2021
 
 ## Process
 
-1. Download Leatest [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
-    > Note: Open this Link in New Tab.
-1. Move Downloaded Office Deployment Tool to ODT folder.
-1. Run Office Deployment Tool by Double Clicking.
-1. Accept Microsoft Software Licence and Terms by click on CheckBox then Continue.
-1. Set Location to Installer folder for Extract the installer
-1. Click download.bat for Download the Latest Microsoft Office.
-1. Click install.bat for Install Microsoft Office.
+> 1. Click *download.bat* for Download the Latest Microsoft Office.
+>     + Don't Close Command-Line Terminal or Shut Down your Computer.
+>     + Be Patient until Download Finished Completely.
+>     + Downloading Time depends on your Bandwidth Speed.
+>     + Minimize and Keep Working as Best Practice.
+> 1. Click *install.bat* for Install Microsoft Office.
+
+## Versions
+
+> * Installer: 16.0.15928.20196
