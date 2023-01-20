@@ -10,10 +10,6 @@ This Installation Suite Contains
 
 ## Process
 
-> 1. Download Leatest [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117) [_**Note:** Open this Link in New Tab._]
-> 1. Run **Office Deployment Tool** by *Double Clicking*.
-> 1. Accept Microsoft Software Licence and Terms by click on CheckBox then **Continue**.
-> 1. Set Location to **Installer** Folder of Office **Repository** for Extract the Office Doployment Tool.
 > 1. Click *download.bat* for Download the Latest Microsoft Office.
 >     + Don't Close Command-Line Terminal or Shut Down your Computer.
 >     + Be Patient until Download Finished Completely.
