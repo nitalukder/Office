@@ -3,7 +3,7 @@ Latest Microsoft Office Command-Line Installer (64-bit)
 
 ## System Requirements
 
-> Free Storage: minimum 6 GB
+> Installer Location: minimum 6 GB Free Storage
 
 ## Features
 
