@@ -15,4 +15,8 @@ This Installation Suite Contains
 > 1. Accept Microsoft Software Licence and Terms by click on CheckBox then **Continue**.
 > 1. Set Location to **Installer** Folder of Office **Repository** for Extract the Office Doployment Tool.
 > 1. Click *download.bat* for Download the Latest Microsoft Office.
+>     + Don't Close Command-Line Terminal or Shut Down your Computer.
+>     + Be Patient until Download Finished Completely.
+>     + Downloading Time depends on your Bandwidth Speed.
+>     + Minimize and Keep Working as Best Practice.
 > 1. Click *install.bat* for Install Microsoft Office.
