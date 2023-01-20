@@ -16,3 +16,7 @@ This Installation Suite Contains
 >     + Downloading Time depends on your Bandwidth Speed.
 >     + Minimize and Keep Working as Best Practice.
 > 1. Click *install.bat* for Install Microsoft Office.
+
+## Versions
+
+> * Installer: 16.0.15928.20196
