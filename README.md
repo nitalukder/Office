@@ -1,4 +1,4 @@
-# Office365
+# Office
 Office Installer with Project and Visio (Latest Command Line Installer)
 
 ## Process
